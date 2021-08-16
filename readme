@@ -4,3 +4,5 @@ Accurate segmentation of true lumen (TL), false lumen (FL) and false lumen throm
 However, existing works only focus on only TL and FL without considering FLT.
 Here, We propose ImageTBAD, the first 3D computed tomography angiography (CTA) image dataset of TBAD with annotation of TL, FL and FLT.
 The proposed dataset contains 100 TBAD CTA images, which is of decent size compared with existing medical imaging datasets.
+
+Please send emails to xiao.wei.xu@foxmail.com for the link and the password for the dataset.
